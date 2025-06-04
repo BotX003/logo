@@ -1,0 +1,21 @@
+{
+  "name": "PineapplePizza",
+  "symbol": "PAP",
+  "description": "The ultimate meme token on Solana – PineapplePizza ($PAP) rewards real holders daily and delivers extra sauce every May 22.",
+  "image": "https://raw.githubusercontent.com/BotX003/logo/main/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BotX003/logo/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FUQkDEgKa9fjpYToKXGtYpvxL2Phst4arZo2hh9oa1Ug",
+        "share": 100
+      }
+    ]
+  }
+}
